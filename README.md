@@ -1,5 +1,5 @@
 
-![Logo](Pictures/logo.svg)
+![Logo](Pictures/logo.png)
 
 ### BreadboardPSU is a solderless breadboard compatible programmable power supply based on the USB PD PPS protocol
 
