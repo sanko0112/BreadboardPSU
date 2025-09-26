@@ -1,4 +1,9 @@
 ### Altium ###
+
+#Windows Desktop.ini crap
+desktop.ini
+Desktop.ini
+
 # Previews Folders
 **/__Previews/
 
@@ -26,3 +31,13 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# Schematic PDF
+*.PDF
+
+# CAMtastic
+*.Cam
+
+# Original repo
+
+original_repository.zip
